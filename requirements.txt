@@ -1,0 +1,8 @@
+streamlit
+psycopg2
+openai
+openpyxl
+fastapi
+llama-index
+azure-mgmt-compute
+azure-mgmt-storage
