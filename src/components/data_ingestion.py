@@ -98,4 +98,5 @@ def generate_sql_query(question, table_name):
     )
     
     sql_query = response.choices[0].text.strip()
+    print (sql_query)
     return sql_query
